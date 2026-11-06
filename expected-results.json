@@ -1,0 +1,42 @@
+{
+  "01-no-script.html": {
+    "beacon_script_count": 0,
+    "with_data_cf_beacon": 0
+  },
+  "02-attribute-only.html": {
+    "beacon_script_count": 0,
+    "with_data_cf_beacon": 0
+  },
+  "03-script-no-attribute.html": {
+    "beacon_script_count": 1,
+    "with_data_cf_beacon": 0
+  },
+  "04-empty-attribute.html": {
+    "beacon_script_count": 1,
+    "with_data_cf_beacon": 0
+  },
+  "05-example-attribute.html": {
+    "beacon_script_count": 1,
+    "with_data_cf_beacon": 1
+  },
+  "06-query-token.html": {
+    "beacon_script_count": 1,
+    "with_data_cf_beacon": 0
+  },
+  "07-two-scripts.html": {
+    "beacon_script_count": 2,
+    "with_data_cf_beacon": 2
+  },
+  "08-wrong-host.html": {
+    "beacon_script_count": 0,
+    "with_data_cf_beacon": 0
+  },
+  "09-comment-only.html": {
+    "beacon_script_count": 0,
+    "with_data_cf_beacon": 0
+  },
+  "10-template-and-script.html": {
+    "beacon_script_count": 1,
+    "with_data_cf_beacon": 1
+  }
+}

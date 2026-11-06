@@ -1,0 +1,84 @@
+{
+  "bundle_id": "beacon-practice-3d5b5455aa296f721ad302c2f7e486ee78ce1c100facdb02758a91e87677935c",
+  "files": [
+    {
+      "bytes": 5146,
+      "path": "README.txt",
+      "sha256": "99dabcdfe884b66d38681f9ef69a8b3d4116ec75399851c48e82060c8a19dc14"
+    },
+    {
+      "bytes": 2001,
+      "path": "check-analytics-html.py",
+      "sha256": "9927076590dcf237cca3d4c59f8a11d85c4a534d693868d53c253f4831818c67"
+    },
+    {
+      "bytes": 940,
+      "path": "expected-results.json",
+      "sha256": "17f09e406a46d04df33e5901ea02af50c0dc354392f52ea7af723baebb27c658"
+    },
+    {
+      "bytes": 146,
+      "path": "fixtures/01-no-script.html",
+      "sha256": "87aaa8b666fc4ce9a1d24e8a14e7f1baae930b7ffe53dc728b6a7dd929abfe73"
+    },
+    {
+      "bytes": 184,
+      "path": "fixtures/02-attribute-only.html",
+      "sha256": "c2d4c74321d66b49705486ab7e81b4b6218c0af091ebbf05673e09b2227f4be7"
+    },
+    {
+      "bytes": 198,
+      "path": "fixtures/03-script-no-attribute.html",
+      "sha256": "194a52b93cde8d3cbf113a79def072b73737a3164e1e960ef0870cbd4935104b"
+    },
+    {
+      "bytes": 216,
+      "path": "fixtures/04-empty-attribute.html",
+      "sha256": "80d9ada72b1ebd2d614c65dfbf98d97fab7817238259a2af8037bd2614e8a220"
+    },
+    {
+      "bytes": 244,
+      "path": "fixtures/05-example-attribute.html",
+      "sha256": "73892efa0a70d1d88034d5419c5926e0697ca39e3d05fbd102d80c783db7b94e"
+    },
+    {
+      "bytes": 221,
+      "path": "fixtures/06-query-token.html",
+      "sha256": "33f92c397fbbc50612f55a0a9bbbddd9e5151ac4dc134102fb51bce563998750"
+    },
+    {
+      "bytes": 366,
+      "path": "fixtures/07-two-scripts.html",
+      "sha256": "1d72ae78a4da9d66f188904b171fe5667073302027c87a4bd4d840837fefe601"
+    },
+    {
+      "bytes": 260,
+      "path": "fixtures/08-wrong-host.html",
+      "sha256": "552d206c6871c75cfe79895c63865cfdd16ed8e5ede9a591b7bc292c2964f713"
+    },
+    {
+      "bytes": 253,
+      "path": "fixtures/09-comment-only.html",
+      "sha256": "e8ed3f69cef705e18087dedc5051f76e202ed6b7b6e6b361a41e26903ddeff9b"
+    },
+    {
+      "bytes": 387,
+      "path": "fixtures/10-template-and-script.html",
+      "sha256": "19f4d21e3cb4c7356d9c123c3b7bb8bdf805c6571d59f0b2430b7fb975be6938"
+    },
+    {
+      "bytes": 1856,
+      "path": "verify_examples.py",
+      "sha256": "af5559057919f168e9619f867e409ff6b9442907c4296d0149d538569e72046b"
+    }
+  ],
+  "format_version": 1,
+  "input_sha256": "3d5b5455aa296f721ad302c2f7e486ee78ce1c100facdb02758a91e87677935c",
+  "scope": "Synthetic HTML parser output only; no browser, network or analytics success assessment.",
+  "source_sha256": "9927076590dcf237cca3d4c59f8a11d85c4a534d693868d53c253f4831818c67",
+  "source_url": "https://pocket-ai-lab.com/downloads/check-analytics-html.py",
+  "validation": {
+    "fixture_count": 10,
+    "status": "expected_outputs_match"
+  }
+}
